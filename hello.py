@@ -1,1 +1,7 @@
-print("hello world")
+
+def saludo():
+    return print("Hola mundo")
+    
+
+saludo()
+saludo()
