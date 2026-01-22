@@ -1,7 +1,7 @@
 
-def saludo():
+def greetings():
     return print("Hola mundo")
     
 
-saludo()
-saludo()
+greetings()
+greetings()
