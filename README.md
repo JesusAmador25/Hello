@@ -13,4 +13,10 @@ Añadimos titulo y descripcion breve y aceptamos.
 - Ser pacientes para que el dueño del repositorio original acepte el pull request
 
 ## Posibles conflictos al hacer un merge
-- Conflictos de linea(sobreescritura)
+- Conflictos de linea (sobreescritura en la misma linea)
+
+## Problemas conversados durante la semana
+- **Problema de emparejamiento bipartita**
+- - 
+- **Priblema número cromatico de la Gráfca G (X(G))**
+- **G en Hamiltoniana**
