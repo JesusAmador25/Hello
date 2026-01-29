@@ -17,6 +17,10 @@ Añadimos titulo y descripcion breve y aceptamos.
 
 ## Problemas conversados durante la semana
 - **Problema de emparejamiento bipartita**
-- - 
-- **Priblema número cromatico de la Gráfca G (X(G))**
-- **G en Hamiltoniana**
+  - *Facil*
+- **Priblema número cromatico de la Gráfca $G$ $(X(G))$**
+  - *Dificil*
+- **$G$ en Hamiltoniana**
+  - *Dificil*
+- **Problema del alcalde municipal**
+  - *Facil*
