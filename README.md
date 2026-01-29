@@ -24,4 +24,4 @@ Añadimos titulo y descripcion breve y aceptamos.
   - *Dificil*
 - **Problema del alcalde municipal**
   - *Facil*
-![ ](https://github.com/[username]/[reponame]/blob/[branch]/imagegithub.jpg?raw=true)
+![ ](https://github.com/JesusAmador25/Hello/blob/main/imagegithub.jpg?raw=true)
