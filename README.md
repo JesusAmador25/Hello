@@ -18,7 +18,7 @@ Añadimos titulo y descripcion breve y aceptamos.
 ## Problemas conversados durante la semana
 - **Problema de emparejamiento bipartita**
   - *Facil*
-- **Priblema número cromatico de la Gráfca $G$ $(\chi(G))$**
+- **Priblema número cromatico de la Gráfca $$G (\chi(G))$$**
   - *Dificil*
 - **$G$ en Hamiltoniana**
   - *Dificil*
