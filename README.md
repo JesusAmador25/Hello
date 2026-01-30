@@ -29,3 +29,4 @@ Añadimos titulo y descripcion breve y aceptamos.
 ![ ](https://github.com/JesusAmador25/Hello/blob/main/imagegithub.jpg?raw=true)
 
 *(Estas notas aun no estan completas)*
+*(Estas notas aun siguen incompletas)*
