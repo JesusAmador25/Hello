@@ -31,3 +31,5 @@ Añadimos titulo y descripcion breve y aceptamos.
 *(Estas notas aun no estan completas)*
 
 *(Estas notas aun siguen incompletas)*
+
+$$a^{2} + b^{2} = c^{2}$$
